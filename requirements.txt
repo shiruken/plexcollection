@@ -1,6 +1,6 @@
-certifi==2020.6.20
-chardet==3.0.4
-idna==2.10
-PlexAPI==4.1.0
-requests==2.24.0
-urllib3==1.26.5
+certifi==2021.5.30
+charset-normalizer==2.0.6
+idna==3.2
+PlexAPI==4.7.1
+requests==2.26.0
+urllib3==1.26.7
