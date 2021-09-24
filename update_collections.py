@@ -128,7 +128,7 @@ if __name__ == "__main__":
 
     library = PlexMovieLibrary(PLEX_URL, PLEX_TOKEN, "Movies")
 
-    url_reddit_top250 = "https://trakt.tv/users/jay-greene/lists/reddit-top-250-2019-edition"
+    url_reddit_top250 = "https://trakt.tv/users/jaygreene/lists/reddit-top-250-2019-edition"
     library.update_collection(url_reddit_top250, "Reddit Top 250")
 
     url_imdb_top250 = "https://trakt.tv/users/justin/lists/imdb-top-rated-movies"
