@@ -134,11 +134,11 @@ if __name__ == "__main__":
     url_imdb_top250 = "https://trakt.tv/users/justin/lists/imdb-top-rated-movies"
     library.update_collection(url_imdb_top250, "IMDb Top 250")
 
-    url_rt_top100 = "https://trakt.tv/users/twentywashere/lists/rotten-tomatoes-best-movies-of-all-time"
+    url_rt_top100 = "https://trakt.tv/users/lish408/lists/rotten-tomatoes-top-100-movies-of-all-time"
     library.update_collection(url_rt_top100, "Rotten Tomatoes Top 100")
 
     url_bestpicture = "https://trakt.tv/users/thefork/lists/academy-awards-best-picture-winners"
     library.update_collection(url_bestpicture, "Academy Award for Best Picture")
 
-    url_disney = "https://trakt.tv/users/movistapp/lists/walt-disney-animated-feature-films"
+    url_disney = "https://trakt.tv/users/asterlea/lists/walt-disney-animation-studios"
     library.update_collection(url_disney, "Walt Disney Animation Studios")
